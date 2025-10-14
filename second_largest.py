@@ -18,7 +18,3 @@ class Solution:
                 if new[i] > temp2:
                     temp2 = new[i]
             return temp2
-   
-arr = [12, 35, 1, 10, 34, 1]
-obj = Solution()       
-print(obj.largest(arr))  
