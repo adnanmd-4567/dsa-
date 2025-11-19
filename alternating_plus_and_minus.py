@@ -12,5 +12,5 @@ class Solution:
         for i in range(len(negative)):
             new.append(positive[i])
             new.append(negative[i])
-        
+       
         return new
